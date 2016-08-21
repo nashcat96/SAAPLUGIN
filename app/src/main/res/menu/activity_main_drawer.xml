@@ -20,16 +20,28 @@
             android:title="Tools" />
     </group>
 
-    <item android:title="Communicate">
+    <item android:title="당사 목록">
         <menu>
             <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_share"
-                android:title="Share" />
+                android:id="@+id/menu_acmilan"
+                android:icon="@drawable/AC_Milan"
+                android:title="A.C.MILANISTA" />
             <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
-                android:title="Send" />
+                android:id="@+id/menu_asroma"
+                android:icon="@drawable/AS_Roma"
+                android:title="LA ROMA COREA" />
+            <item
+                android:id="@+id/menu_intermilan"
+                android:icon="@drawable/Inter_Milan"
+                android:title="TIAMO INTER" />
+            <item
+                android:id="@+id/menu_juventus"
+                android:icon="@drawable/Juventus"
+                android:title="JUVENTUS KR" />
+            <item
+                android:id="@+id/menu_napoli"
+                android:icon="@drawable/Napoli"
+                android:title="SSC NAPOLI: Partenopei" />
         </menu>
     </item>
 
