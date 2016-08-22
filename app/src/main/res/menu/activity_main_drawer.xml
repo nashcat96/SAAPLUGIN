@@ -24,23 +24,23 @@
         <menu>
             <item
                 android:id="@+id/menu_acmilan"
-                android:icon="@drawable/AC_Milan"
+                android:icon="@drawable/ac_milan"
                 android:title="A.C.MILANISTA" />
             <item
                 android:id="@+id/menu_asroma"
-                android:icon="@drawable/AS_Roma"
+                android:icon="@drawable/as_roma"
                 android:title="LA ROMA COREA" />
             <item
                 android:id="@+id/menu_intermilan"
-                android:icon="@drawable/Inter_Milan"
+                android:icon="@drawable/inter_milan"
                 android:title="TIAMO INTER" />
             <item
                 android:id="@+id/menu_juventus"
-                android:icon="@drawable/Juventus"
+                android:icon="@drawable/juventus"
                 android:title="JUVENTUS KR" />
             <item
                 android:id="@+id/menu_napoli"
-                android:icon="@drawable/Napoli"
+                android:icon="@drawable/napoli"
                 android:title="SSC NAPOLI: Partenopei" />
         </menu>
     </item>
